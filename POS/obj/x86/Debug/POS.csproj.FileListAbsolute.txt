@@ -1,0 +1,8 @@
+D:\Dropbox\workspace\csharp\POS\POS\bin\Debug\POS.exe
+D:\Dropbox\workspace\csharp\POS\POS\bin\Debug\POS.pdb
+D:\Dropbox\workspace\csharp\POS\POS\obj\x86\Debug\POS.MainForm.resources
+D:\Dropbox\workspace\csharp\POS\POS\obj\x86\Debug\POS.Properties.Resources.resources
+D:\Dropbox\workspace\csharp\POS\POS\obj\x86\Debug\POS.csproj.GenerateResource.Cache
+D:\Dropbox\workspace\csharp\POS\POS\obj\x86\Debug\POS.exe
+D:\Dropbox\workspace\csharp\POS\POS\obj\x86\Debug\POS.pdb
+D:\Dropbox\workspace\csharp\POS\POS\bin\Debug\POS.exe.config
